@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "app.ejemplo",
+  "description": "Ejemplo de app",
+  "author": "CONTPAQi",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "css-loader": "^2.1.1",
+    "devextreme": "^18.2.7",
+    "devextreme-vue": "^18.2.7",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "vue": "^2.6.10",
+    "vuex": "^3.1.0"
+  }
+}
